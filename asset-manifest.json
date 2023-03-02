@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dali-home/static/css/main.a81492d1.css",
+    "main.js": "/dali-home/static/js/main.f5bdb388.js",
+    "index.html": "/dali-home/index.html",
+    "main.a81492d1.css.map": "/dali-home/static/css/main.a81492d1.css.map",
+    "main.f5bdb388.js.map": "/dali-home/static/js/main.f5bdb388.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a81492d1.css",
+    "static/js/main.f5bdb388.js"
+  ]
+}
