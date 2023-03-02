@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/dali-home/static/css/main.a81492d1.css",
-    "main.js": "/dali-home/static/js/main.f5bdb388.js",
-    "index.html": "/dali-home/index.html",
-    "main.a81492d1.css.map": "/dali-home/static/css/main.a81492d1.css.map",
-    "main.f5bdb388.js.map": "/dali-home/static/js/main.f5bdb388.js.map"
+    "main.css": "/gh-pages/static/css/main.a81492d1.css",
+    "main.js": "/gh-pages/static/js/main.c2c86f80.js",
+    "index.html": "/gh-pages/index.html",
+    "main.a81492d1.css.map": "/gh-pages/static/css/main.a81492d1.css.map",
+    "main.c2c86f80.js.map": "/gh-pages/static/js/main.c2c86f80.js.map"
   },
   "entrypoints": [
     "static/css/main.a81492d1.css",
-    "static/js/main.f5bdb388.js"
+    "static/js/main.c2c86f80.js"
   ]
 }
